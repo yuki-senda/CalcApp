@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="hint">数値を入力してください。</string>
+    <string name="result_text">計算結果：</string>
+    <string name="bt_plus">+</string>
+    <string name="bt_minus">-</string>
+    <string name="bt_multiplication">×</string>
+    <string name="bt_division">÷</string>
+</resources>
